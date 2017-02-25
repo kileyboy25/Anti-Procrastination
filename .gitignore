@@ -42,3 +42,4 @@ captures/
 app/libs/
 app/src/main/res/drawable/
 /app/app.iml
+.idea/
